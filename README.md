@@ -68,5 +68,7 @@ SOFTWARE.
 
 Original code provided by UC Berkeley Extension
 
+## Technologies Used
+
 ![HTML Badge](https://img.shields.io/badge/Language-<HTML>-<blue>)
 ![HTML Badge](https://img.shields.io/badge/Language-<CSS>-<red>)
